@@ -96,40 +96,40 @@ Forever in this place I stand`,
     cover: "https://utfs.io/f/E9fJnaKtTy1bV09oPkISuh6fWpNsTRlAk1Qj9yqnVzCi32BL",
     song: "https://utfs.io/f/E9fJnaKtTy1ba1N97yFrtlodEaJI0m4wGY9KgyPiUvCf8hMp",
     lyrics: `[Verse]
-Moonlight dances on the ocean's face
-Waves sing stories of a timeless place
-Soft whispers in the night keep pace
-With echoing dreams in endless space
+Staring at the ceiling shadows creep
+Whispers of past lives we couldn't keep
+Echoes of dreams we drowned in the deep
+Fading shadows haunt the places we sleep
 
 [Verse 2]
-Starfish conjure a celestial relay
-Coral gardens where the sea nymphs play
-Currents carry whispers far away
-In the heart of the deep we stay
+Broken promises like shattered glass
+Memories scatter on a troubled path
+Truth in a bottle we dared not ask
+Fading shadows slip through our grasp
 
 [Chorus]
-Tidal drift takes me home
-In the serene vast unknown
-Flowing peace where I roam
-In every wave I'm not alone
+We used to shine like stars in the night
+Now we wander lost without a light
+Fading shadows in the dim twilight
+We reach for a day that’s out of sight
 
 [Verse 3]
-Shelter in the shells they hold
-Secrets gleam like sunlit gold
-In the depths where tales unfold
-Ancient whispers softly told
+Dust settles on the words we never spoke
+Tangled in silence our connection broke
+Eyes that once sparkled now cloak
+Fading shadows cloak us like a joke
 
 [Bridge]
-Breathing rhythms of the sea
-Echoes in tranquility
-Softly calling out to me
-In the flow where I am free
+Fighting the ghosts that we left behind
+In the ruins of the life we designed
+Searching for solace we can't find
+Fading shadows clouding our mind
 
-[Verse 4]
-Gentle sway of unseen hands
-Guides me through these liquid lands
-Boundless love in ocean's strands
-Forever in this place I stand`,
+[Chorus]
+We used to shine like stars in the night
+Now we wander lost without a light
+Fading shadows in the dim twilight
+We reach for a day that’s out of sight`,
   },
   {
     id: "hdees11mmk6g078ewijlly1r",
