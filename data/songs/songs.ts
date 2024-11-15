@@ -404,7 +404,7 @@ In my own garden I come alive`,
     artist: "Velvet Waves",
     genre: "Indie Pop",
     duration: 155,
-    cover: "https://utfs.io/f/E9fJnaKtTy1bRrer7odlXJ7gkU9pOS36sIbA1vBViucmwjyN",
+    cover: "https://utfs.io/f/E9fJnaKtTy1bdFkaBz4G9CJywD7oVn1hRLQAuEbf8xqkt34N",
     song: "https://utfs.io/f/E9fJnaKtTy1bmzCjv0zpwv20S9ypENbiPcTQMqzK7BkZWLts",
     lyrics: `[Verse]
 Sunlight filters through the trees
